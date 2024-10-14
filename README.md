@@ -7,7 +7,7 @@ This is a web-based application built with **Streamlit** that provides a suite o
 ## How to Run the Project
 
 ### Prerequisites
-- Python 3.x
+- Python 3.10+
 - Streamlit library
 
 ### Installation
